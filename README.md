@@ -34,7 +34,7 @@ Optional User Stories:
 2. TV: http://www.programmableweb.com/api/tv-media-tv-listings
 3. Google calendar: https://developers.google.com/google-apps/calendar/
 
-Demo Video:
+## Video Walkthrough from Youtube:
 https://www.youtube.com/watch?v=yiZ2gKtT-rM
 
 ## Current Walkthrough 
